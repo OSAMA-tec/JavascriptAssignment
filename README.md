@@ -1,2 +1,1 @@
-# JavascriptAssignment
-45 Questions
+# Javascript-Assignment
